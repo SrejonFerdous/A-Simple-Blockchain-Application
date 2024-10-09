@@ -4,5 +4,10 @@ First check your python version ''' python --version ''' Install All Packages ''
 
 To run a .py file in terminal ''' python -m backend.blockchain.block '''
 
-Run the tests Make sure to activate the virtual environment ''' python -m pytest backend/tests '''
+**Run the tests**
+Make sure to activate the virtual environment ''' python -m pytest backend/tests '''
+
+**Run the application and API**
+Make sure to activate the virtual environment ''' python -m backend.app '''
+
  
